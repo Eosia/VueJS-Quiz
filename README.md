@@ -1,4 +1,4 @@
-# vue-js-quiz
+### A quiz created with VueJS
 
 ## Project setup
 ```
