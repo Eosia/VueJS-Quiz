@@ -31,7 +31,7 @@
 
         <!--Is correct-->
           <h4 v-if="this.chosenAnswer == this.correctAnswer"
-            v-html="'&#9989; Congratulations, the answer' + this.correctAnswer + 'is correct.'">
+            v-html="'&#9989; Congratulations, the answer ' + this.correctAnswer + ' is correct.'">
           </h4>
         <!--Is correct/-->
 
