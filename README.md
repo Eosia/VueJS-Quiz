@@ -1,6 +1,6 @@
 ### A quiz created with VueJS
 
-##### Link :  https://quiz-vue.js.eosia.dev
+##### Link :  https://quiz-vuejs.eosia.dev
 
 ## Project setup
 ```
